@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AeroChain Ledger",
+  "description": "A web application to demonstrate a blockchain-based aircraft maintenance log. It provides an immutable, transparent, and verifiable way to track maintenance records for airlines, mechanics, and regulators.",
+  "requestFramePermissions": []
+}
